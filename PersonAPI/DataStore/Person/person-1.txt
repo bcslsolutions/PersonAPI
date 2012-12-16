@@ -1,0 +1,9 @@
+id=1
+familyName=Rooney
+givenName=Wayne
+middleNames=Mark
+dateOfBirth=1985-10-24
+dateOfDeath=
+placeOfBirth=Liverpool
+height=1.76
+twitterId=@WayneRooney

@@ -1,0 +1,9 @@
+id=3
+familyName=Jackson
+givenName=Michael
+middleNames=Joseph
+dateOfBirth=1958-08-29
+dateOfDeath=2009-06-25
+placeOfBirth=Indiana
+height=
+twitterId=@michaeljackson
